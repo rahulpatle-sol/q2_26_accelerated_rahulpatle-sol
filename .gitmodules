@@ -4,3 +4,6 @@
 [submodule "whitelist-transfer-hook-q2"]
 	path = whitelist-transfer-hook-q2
 	url = https://github.com/rahulpatle-sol/whitelist-transfer-hook-q2.git
+[submodule "magicblock-er-example"]
+	path = magicblock-er-example
+	url = https://github.com/rahulpatle-sol/magicblock-er-example.git
