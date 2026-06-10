@@ -7,3 +7,6 @@
 [submodule "magicblock-er-example"]
 	path = magicblock-er-example
 	url = https://github.com/rahulpatle-sol/magicblock-er-example.git
+[submodule "tuktuk-counter"]
+	path = tuktuk-counter
+	url = https://github.com/rahulpatle-sol/tuktuk-counter.git
