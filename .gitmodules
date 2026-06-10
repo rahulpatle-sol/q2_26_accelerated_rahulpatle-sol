@@ -1,3 +1,6 @@
 [submodule "accel_anchor-esrow"]
 	path = accel_anchor-esrow
 	url = https://github.com/rahulpatle-sol/accel_anchor-esrow.git
+[submodule "whitelist-transfer-hook-q2"]
+	path = whitelist-transfer-hook-q2
+	url = https://github.com/rahulpatle-sol/whitelist-transfer-hook-q2.git
