@@ -13,3 +13,6 @@
 [submodule "accel-p-escrow"]
 	path = accel-p-escrow
 	url = https://github.com/rahulpatle-sol/accel-p-escrow.git
+[submodule "anchor-fundraiser"]
+	path = anchor-fundraiser
+	url = https://github.com/rahulpatle-sol/anchor-fundraiser.git
