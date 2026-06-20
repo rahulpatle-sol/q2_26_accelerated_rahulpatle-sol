@@ -10,3 +10,6 @@
 [submodule "tuktuk-counter"]
 	path = tuktuk-counter
 	url = https://github.com/rahulpatle-sol/tuktuk-counter.git
+[submodule "accel-p-escrow"]
+	path = accel-p-escrow
+	url = https://github.com/rahulpatle-sol/accel-p-escrow.git
