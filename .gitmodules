@@ -16,3 +16,6 @@
 [submodule "anchor-fundraiser"]
 	path = anchor-fundraiser
 	url = https://github.com/rahulpatle-sol/anchor-fundraiser.git
+[submodule "anchor-core-staking"]
+	path = anchor-core-staking
+	url = https://github.com/rahulpatle-sol/anchor-core-staking.git
