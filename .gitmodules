@@ -19,3 +19,6 @@
 [submodule "anchor-core-staking"]
 	path = anchor-core-staking
 	url = https://github.com/rahulpatle-sol/anchor-core-staking.git
+[submodule "liqour-fi"]
+	path = liqour-fi
+	url = https://github.com/rahulpatle-sol/liqour-fi.git
